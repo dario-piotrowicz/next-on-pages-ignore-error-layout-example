@@ -24,7 +24,7 @@
     "typescript": "5.2.2"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/7165458223/npm-package-next-on-pages-585",
+    "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/7167734618/npm-package-next-on-pages-585",
     "eslint-plugin-next-on-pages": "^1.6.3",
     "vercel": "^32.4.1"
   }
